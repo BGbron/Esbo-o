@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+body div {
+  padding: 20px 10px;
+  border: 2px solid black;
+  margin: 5px 5px;
+}
+p {
+  font-size: 30px;
+}
+
+.global {
+  color: #cfd0d3;
+  border: 2px solid #cfd0d3;
+  padding: 5px 5px;
+
+}
+.labolg-p {margin-left: 10px;}
+.flex {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.topo {
+  color: rgb(226, 32, 184);
+  border-color: rgb(226, 32, 184);
+}
+
+.conteudo {
+  color: aquamarine;
+  border-color: aquamarine;
+  flex: 1;
+  padding: 200px 10px;
+}
+.menu {
+  color: aqua;
+  border-color: aqua;
+  width: 300px;
+  padding: 200px 10px;
+}
+
+.rodape {
+  color: orange;
+  border-color: orange;
+}
