@@ -1,6 +1,8 @@
 * {
   box-sizing: border-box;
 }
+body{
+  font-family: 'Poppins', sans-serif;}
 body div {
   padding: 20px 10px;
   border: 2px solid black;
